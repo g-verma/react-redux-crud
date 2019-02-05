@@ -1,2 +1,4 @@
-# reacr-redux-crud
-a react redux crud application
+## Run Project
+run `npm install`
+
+then `npm start`
